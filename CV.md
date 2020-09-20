@@ -10,4 +10,3 @@
     My strengths: responsibility, mathematical mindset.
     I worked in the educational center as a teacher of mathematics and physics. At the moment I work as an engineer in the department of network operation and data transmission. The next goal is to go into the field of programming.
     I strive to travel and learn new things.*
-
