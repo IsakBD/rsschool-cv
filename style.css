@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+header img{
+    height: auto;
+    width: 200px;
+    margin-right: 20px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.summary-skills p{
+    width: 300px;
+}
+
+.edu-english{
+    width: 300px;
+}
